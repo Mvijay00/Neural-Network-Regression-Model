@@ -12,7 +12,9 @@ Regression problems involve predicting a continuous output variable based on inp
 Neural Network Model
 Include the neural network model diagram.
 
+
 DESIGN STEPS
+
 STEP 1: Generate Dataset
 Create input values from 1 to 50 and add random noise to introduce variations in output values .
 
@@ -33,6 +35,7 @@ Plot the original dataset along with the learned linear model.
 
 STEP 7: Make Predictions
 Use the trained model to predict for a new input value .
+
 
 PROGRAM
 Name:VIJAYARAGHAVAN M
